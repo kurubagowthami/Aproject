@@ -6,3 +6,11 @@ DOJ:
 
 Age
 
+Name:
+Age:
+Contact no:
+sala:
+DOJ:
+
+Age
+
