@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 
 OS: Ubuntu
 Arch: x64
 CPU; 24 Pro
 RAM: 128 GB
+=======
+Platform: Cloud
+EC2: C5 Large
+EBS:snapshots:
+>>>>>>> Develop
